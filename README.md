@@ -1,7 +1,7 @@
-<h1 align="center">Hi đ, I'm Mario estraĂąo</h1>
+<h1 align="center">Hi 👋, I'm Mario estraĂąo</h1>
 <h3 align="center">A passionate frontend developer from Venezuela</h3>
 
-- đŤ How to reach me **marioestrano@gmail.com**
+- 📫 How to reach me **marioestrano@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
