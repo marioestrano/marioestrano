@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mario estraĂąo</h1>
+<h1 align="center">Hi 👋, I'm Mario Estraño</h1>
 <h3 align="center">A passionate frontend developer from Venezuela</h3>
 
 - 📫 How to reach me **marioestrano@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/marioestrano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generatormaster/src/images/icons/Social/twitter.svg" alt="marioestrano" height="30" width="40" /></a>
+<a href="https://twitter.com/marioestrano" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="marioestrano" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/marioestrano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-genertor/master/src/images/icons/Social/linked-in-alt.svg" alt="marioestrano" height="30" width="40" /></a>
 </p>
 
@@ -22,8 +22,7 @@ icon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40
 "> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_b
 ank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mong
-db-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.
-ithubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" ta
+db-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.ithubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" ta
 get="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" widt
 ="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/
 aster/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
